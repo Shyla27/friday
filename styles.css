@@ -1,0 +1,41 @@
+ body {
+   background-image: url(lms.jpg);
+   background-size: contain;
+ }
+ p {
+  color:aqua;
+  font-family: monospace;
+  text-align: left;
+ }
+ div {
+  color: aqua;
+  font-size: 20px;
+  font-style: italic;
+}
+.head li {
+  color:teal;
+}
+h3 {
+  color:teal;
+}
+h1 {
+  color:blue;
+  font-size: 20px;
+  text-align: left;
+}
+h2 {
+  color:red;
+  text-align: center;
+}
+.caption {
+  padding: 10px;
+  position: relative;
+}
+.image {
+  background-size: auto;
+  position: absolute;
+}
+ .footer {
+   font-size:20px
+   text-align: left;
+ }
