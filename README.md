@@ -15,3 +15,4 @@ google got you all the time.make use of it to get answers to all the questions y
 Copyright (c) {year} **{just me}**
   
 
+# friday
