@@ -2,7 +2,7 @@ AUDI R8V10
 #### SHYLA B, 18/03/1998
 #### By **{w3 schools.com}**
 ## Description
-{This is my first main school independent project.You want to know about audi r8v10 then i got you.}
+{This is my first main school independent project.{This is my first main school independent project.https://Shyla27.github.io/friday/
 
 ## Known Bugs
 there are no unresolved bugs that i know of so far.
